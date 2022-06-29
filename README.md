@@ -6,6 +6,7 @@ Testing purposes only
 ## Introduction
 
 Sample website with plenty of files for demos
+Again a sample file text bla bla
 
 ## Purpose
 
