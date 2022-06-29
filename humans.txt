@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tudor Pogacean tudor.pogacean@accesa.eu
 
 # THANKS
 
