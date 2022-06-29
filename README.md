@@ -13,3 +13,7 @@ Add some text here again
 ## Deployment
 Sample text
 ## How to contribute
+
+###Copyright
+
+Training test
