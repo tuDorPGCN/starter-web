@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 Testing purposes only
 Adding more text for rebase
 Then more changes from myfeature branch too
+stashing 
 
 ## Introduction
 
@@ -18,4 +19,4 @@ Sample text
 Modified a file from master now
 ###Copyright
 
-Training test
+Training test bla bla all rights reserved
