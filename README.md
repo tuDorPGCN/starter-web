@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 Testing purposes only
 Adding more text for rebase
+Then more changes from myfeature branch too
 
 ## Introduction
 
